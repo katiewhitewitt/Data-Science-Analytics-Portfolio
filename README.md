@@ -1,2 +1,2 @@
-# KState-DSA-portfolio
+# KStateDSA
 Repo from class 1
